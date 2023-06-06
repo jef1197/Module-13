@@ -6,13 +6,19 @@ This is the Module 13 Challenge for the boot camp. The project has been built up
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
 Video walkthrough to create and seed the database.
 
 Link to Video: https://www.awesomescreenshot.com/video/18090000?key=9af514328cecef32295e290ad4491b9f
 
+https://github.com/jef1197/Module-13/assets/48005017/1cf1f5b1-8490-4b39-9f26-1056a0fdd818
+
+
 Video walkthrough on how to use insomnia to view, add, edit, and delete data:
 
 Link to Video: https://www.awesomescreenshot.com/video/18090149?key=2c49a2e97f51b5140607d1a71db4f850
+
+https://github.com/jef1197/Module-13/assets/48005017/69d5eae2-2134-45dc-848e-bdcde8d6a2f6
 
 
 ## Usage
